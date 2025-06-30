@@ -4,6 +4,7 @@ This repository hosts the legal documents for the **StandUp Saga** mobile app, i
 
 - [Privacy Policy](https://kharioki.github.io/standup-saga-legal/privacy.html)
 - [Terms and Conditions](https://kharioki.github.io/standup-saga-legal/terms.html)
+- [Account Delete](https://kharioki.github.io/standup-saga-legal/account-delete.html)
 
 These documents are published via **GitHub Pages** and linked from within the app to ensure transparency, compliance, and accessibility.
 
@@ -11,6 +12,7 @@ These documents are published via **GitHub Pages** and linked from within the ap
 
 - `privacy.html` – Details how user data is collected, used, and protected.
 - `terms.html` – Outlines the rules and terms for using the app and services.
+- `account-delete.html` - Outlines how to contact us to delete your account.
 
 ## Hosting
 
